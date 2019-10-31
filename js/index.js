@@ -41,3 +41,4 @@ const siteContent = {
 let logo = document.getElementById("logo-img");
 logo.setAttribute('src', siteContent["nav"]["img-src"])
 var lol = 1+1
+var loul = 1+3
